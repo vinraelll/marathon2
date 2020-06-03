@@ -1,0 +1,37 @@
+.advantages {
+    background-color: #F4F9FD;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.advantages__block {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 7%;
+}
+
+.advantages__title-block {
+    font-family: Source Sans Pro;
+    width: 420px;
+    padding-top: 12%;
+}
+
+.advantages__title-block h4 {
+    font-size: 35px;
+    line-height: 45px;
+    color: #202020;
+    margin-bottom: 9%;
+}
+
+.advantages__title-block p {
+    font-size: 15px;
+    line-height: 24px;
+    color: #272727;
+    margin-bottom: 7%;
+}
+
+.advantages__img {
+    width: 668px;
+    height: 517px;
+    object-fit: cover;
+}
