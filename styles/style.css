@@ -244,6 +244,9 @@ ul {
   font-family: Source Sans Pro;
   width: 420px;
   padding-top: 12%;
+  background: url(../img/cloud-1.svg);
+  background-repeat: no-repeat;
+  background-position: 15px 76px;
 }
 
 .advantages__title-block h4 {
